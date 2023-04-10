@@ -18,5 +18,14 @@ public class test3 {
 		return result;
 		
 	}
+	
+	public int getSubtraction(int a , int b) {
+		int result = 0;
+		
+		result = a - b;
+		
+		return result;
+		
+	}
 
 }
