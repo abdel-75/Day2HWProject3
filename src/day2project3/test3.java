@@ -9,5 +9,14 @@ public class test3 {
 		
 
 	}
+	
+	public int getSum( int a , int b) {
+		int result = 0;
+		
+		result = a + b;
+		
+		return result;
+		
+	}
 
 }
